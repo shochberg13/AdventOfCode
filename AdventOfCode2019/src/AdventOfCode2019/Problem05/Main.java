@@ -28,7 +28,7 @@ public class Main {
 			for (int j = 0; j <= 99; j++){
 				ArrayList<Integer> numberList = new ArrayList<Integer>();
 				numberList = getOriginalNumberList();
-				Problem02Helper longList = new Problem05Helper(numberList);
+				Helper longList = new Helper(numberList);
 				
 				
 				longList.setNumberList(1, i);

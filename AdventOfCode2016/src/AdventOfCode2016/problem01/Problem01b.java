@@ -1,4 +1,4 @@
-package AdventOfCode2016.problem01;
+spackage AdventOfCode2016.problem01;
 
 import java.io.File;
 import java.io.FileNotFoundException;
